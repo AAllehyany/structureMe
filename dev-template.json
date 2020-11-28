@@ -1,0 +1,8 @@
+{
+  "name": "Dev Template",
+  "folders": [
+    {"name": "models", "gen": "model"},
+    {"name": "components", "gen": "component"},
+    {"name": "services", "gen": "service"}
+  ]
+}
